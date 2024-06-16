@@ -1,6 +1,6 @@
 # Read Me
 
-Pcc-tuning: Pcc-tuning: Achieving Spearman's Correlation Scores Beyond 87.5
+Pcc-tuning: Breaking the Contrastive Learning Ceiling in Semantic Textual Similarity
 
 _our paper is the first to propose and substantiate the performance upper bound of contrastive learning methods. Additionally, Pcc-tuning is the inaugural method capable of achieving Spearman's correlation scores above 87 on standard STS tasks, marking a significant advancement in the field._
 
