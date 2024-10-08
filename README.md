@@ -1,6 +1,6 @@
 # Read Me
 
-[Pcc-tuning: Breaking the Contrastive Learning Ceiling in Semantic Textual Similarity](https://arxiv.org/abs/2406.09790v1)
+[Pcc-tuning: Breaking the Contrastive Learning Ceiling in Semantic Textual Similarity](https://arxiv.org/abs/2406.09790)
 
 _Our paper is the first to propose and substantiate the theoretical performance upper bound of contrastive learning methods. Additionally, Pcc-tuning is the inaugural method capable of achieving Spearman’s correlation scores above 87 on standard STS tasks, marking a significant advancement in the field._
 
@@ -68,7 +68,7 @@ __This paper has been accepted to EMNLP 2024. (Main)__
 
 - Github: [STS-Regression](https://github.com/ZBWpro/STS-Regression)
 
-  Paper: [Advancing Semantic Textual Similarity Modeling: A Regression Framework with Translated ReLU and Smooth K2 Loss](https://arxiv.org/abs/2406.05326) 
+  Paper: [Advancing Semantic Textual Similarity Modeling: A Regression Framework with Translated ReLU and Smooth K2 Loss](https://arxiv.org/abs/2406.05326)
 
   Conference::star2: EMNLP 2024, **Main**
 - Github: [CoT-BERT](https://github.com/ZBWpro/CoT-BERT)
