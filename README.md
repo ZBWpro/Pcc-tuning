@@ -66,16 +66,24 @@ __This paper has been accepted to EMNLP 2024. (Main)__
 
 ## Related Work
 
+- Github: [CSE-SFP](https://github.com/ZBWpro/CSE-SFP)
+
+  Paper: [CSE-SFP: Enabling Unsupervised Sentence Representation Learning via a Single Forward Pass](https://arxiv.org/abs/2505.00389)
+
+  Conference: :star2: SIGIR 2025, **Full**
+
 - Github: [STS-Regression](https://github.com/ZBWpro/STS-Regression)
 
   Paper: [Advancing Semantic Textual Similarity Modeling: A Regression Framework with Translated ReLU and Smooth K2 Loss](https://arxiv.org/abs/2406.05326)
 
   Conference: :star2: EMNLP 2024, **Main**
+  
 - Github: [CoT-BERT](https://github.com/ZBWpro/CoT-BERT)
 
   Paper: [CoT-BERT: Enhancing Unsupervised Sentence Representation through Chain-of-Thought](https://arxiv.org/abs/2309.11143) 
 
   Conference: :star2: ICANN 2024, **Oral**
+  
 - Github: [PretCoTandKE](https://github.com/ZBWpro/PretCoTandKE)
 
   Paper: [Simple Techniques for Enhancing Sentence Embeddings in Generative Language Models](https://arxiv.org/abs/2404.03921)​ 
